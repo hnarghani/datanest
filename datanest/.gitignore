@@ -1,2 +1,5 @@
 #add by windows stuff
 .idea/
+blog/migrations/
+#database
+db.sqlite3
